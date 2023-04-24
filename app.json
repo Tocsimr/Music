@@ -1,9 +1,9 @@
 {
-    "name": "ɴɪʙɪ ✘ ᴍᴜsɪᴄ",
+    "name": "𝖳𝗈𝖼𝗌𝗂 𝖬𝗎𝗌𝗂𝖼",
     "logo": "https://te.legra.ph/file/086426b04c04a3c16f558.jpg",
-    "description": "ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴘʀᴇᴍɪᴜᴍ ᴍᴜsɪᴄ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ᴛʜᴇ ʙᴏᴛ ʜᴜʙ.",
+    "description": "ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴘʀᴇᴍɪᴜᴍ ᴍᴜsɪᴄ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ тσ¢ѕι.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/NirjonX69/NibiMusic",
+    "repository": "https://github.com/ankitxd/test",
     "stack": "container",
     "env": {
         "BOT_USERNAME": {
